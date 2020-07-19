@@ -1,4 +1,4 @@
-#  <span style="color:#da4699"> Milestone Project 1 </span>
+#  <span style="color:#da4699"> ML Bowen Website </span>
 
 ![ML Bowen Logo](assets/logos/MLBowenandstickmen7.jpg)
 
