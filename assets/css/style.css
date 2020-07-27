@@ -123,6 +123,7 @@ a.active {
     background-image: url('../images/Picture1.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
     background-size: cover;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
